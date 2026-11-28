@@ -1,0 +1,23 @@
+{
+  "name": "薄明よみ",
+  "short_name": "薄明よみ",
+  "description": "太陽の伏角から、常用薄明・航海薄明・天文薄明のどれかを当てる1日5問",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eceef6",
+  "theme_color": "#eceef6",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
